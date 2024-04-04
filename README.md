@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm gregory olievier</h1>
 <h3 align="center">A passionate Fullstack developer from Belgium!</h3>
 
-<img align="right" alt="coding" width=400 src="https://media0.giphy.com/media/26BGIqWh2R1fi6JDa/200w.gif?cid=6c09b952vf8qvt63we8j0n1lmra5q7mfju7y8gmauzwy6707&ep=v1_gifs_search&rid=200w.gif&ct=g"> 
+<img align="right" alt="coding" width=300 src="https://media0.giphy.com/media/26BGIqWh2R1fi6JDa/200w.gif?cid=6c09b952vf8qvt63we8j0n1lmra5q7mfju7y8gmauzwy6707&ep=v1_gifs_search&rid=200w.gif&ct=g"> 
 
 - 🔭 I’m currently working on **My porfolio**
 
